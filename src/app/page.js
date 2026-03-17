@@ -1,52 +1,55 @@
 export default function Home() {
   return (
-    <main className="py-20 space-y-20">
+    <main className="py-40 space-y-32 text-center">
 
-      <h1 className="text-5xl font-bold leading-tight">
-        Jayden Davis — Junior Software Engineer
-      </h1>
+      <section className="space-y-6 max-w-3xl mx-auto animate-fadeIn animate-fadeUp">
+        <h1 className="text-4xl md:text-5xl font-bold leading-snug tracking-tight">
+          Jayden Davis — Junior Software Engineer
+        </h1>
 
-      <p className="text-lg text-gray-600 max-w-xl">
-        Software engineer with a strong foundation in full‑stack development, gained through
-        hands‑on project work and an intensive software engineering bootcamp. I build clean,
-        reliable, user‑focused applications with a focus on clarity, performance, and modern
-        web practices.
-      </p>
-    
+        <p className="text-base md:text-lg text-gray-600 max-w-2xl mx-auto">
+          Full‑stack developer with a strong foundation in modern web technologies, gained 
+          through hands‑on project work and an intensive software engineering bootcamp. 
+          I build clean, reliable, user‑focused applications with a focus on clarity, 
+          structure, and premium UI design.
+        </p>
 
-    <section className="mt-16">
-  <h2 className="text-3xl font-semibold mb-6">Featured Projects</h2>
+        <div className="flex justify-center gap-4 pt-4">
+          <a 
+            href="/projects" 
+            className="px-6 py-3 bg-black text-white rounded-lg hover:bg-gray-800 hover:scale-[1.02] transition"
+          >
+            View Projects
+          </a>
 
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-    <a href="/projects" className="p-6 border rounded-xl hover:shadow-lg transition">
-      <h3 className="text-xl font-bold mb-2">CareerBoards - Job Tracker App</h3>
-      <p className="text-gray-600">A full‑stack application for managing job applications and tracking progress.</p>
-    </a>
+          <a 
+            href="/contact" 
+            className="px-6 py-3 border border-gray-300 rounded-lg hover:bg-gray-100 hover:scale-[1.02] transition"
+          >
+            Contact Me
+          </a>
+        </div>
+      </section>
 
-    <a href="/projects" className="p-6 border rounded-xl hover:shadow-lg transition">
-      <h3 className="text-xl font-bold mb-2">Firtslook - Salon Booking App</h3>
-      <p className="text-gray-600">A booking platform with role‑based access, scheduling, and admin dashboard.</p>
-    </a>
-  </div>
-</section>
 
-<section className="mt-20">
-  <h2 className="text-3xl font-semibold mb-6">Tech Stack</h2>
+      
+      <section className="max-w-3xl mx-auto text-center space-y-8">
+        <h2 className="text-3xl font-semibold tracking-tight">Tech Stack</h2>
 
-  <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 text-gray-700">
-    <span>JavaScript</span>
-    <span>Python</span>
-    <span>React</span>
-    <span>Django</span>
-    <span>PostgreSQL</span>
-    <span>Node.js</span>
-    <span>Express</span>
-    <span>MongoDB</span>
-    <span>Next.js</span>
-    <span>Tailwind CSS</span>
-  </div>
-</section>
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 text-gray-700 text-lg animate-stagger">
+          <span>JavaScript</span>
+          <span>Python</span>
+          <span>React</span>
+          <span>Next.js</span>
+          <span>Node.js</span>
+          <span>Express</span>
+          <span>Django</span>
+          <span>MongoDB</span>
+          <span>PostgreSQL</span>
+          <span>Tailwind CSS</span>
+        </div>
+      </section>
 
-</main>
-  )
+    </main>
+  );
 }

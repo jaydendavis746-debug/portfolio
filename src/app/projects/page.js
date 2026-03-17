@@ -9,8 +9,8 @@ export default function ProjectsPage() {
         thoughtful design.
       </p>
 
-      <div className="space-y-12">
-        <div className="border rounded-xl p-6 hover:shadow-lg transition">
+      <div className="space-y-12 animate-stagger" >
+        <div className="border rounded-xl p-6 hover:shadow-lg hover-lift">
           <img  
             src="/firstlook.png" 
             alt="FirstLook Salon Booking App screenshot" 
@@ -59,7 +59,7 @@ export default function ProjectsPage() {
           </div>
         </div>
 
-        <div className="border rounded-xl p-6 hover:shadow-lg transition">
+        <div className="border rounded-xl p-6 hover:shadow-lg hover-lift">
 
           <img 
             src="/careerboards.png"
@@ -118,7 +118,7 @@ export default function ProjectsPage() {
         </div>
 
 
-        <div className="border rounded-xl p-6 hover:shadow-lg transition">
+        <div className="border rounded-xl p-6 hover:shadow-lg hover-lift">
 
           <img 
             src="/comicuniverse.png"
@@ -176,7 +176,7 @@ export default function ProjectsPage() {
         </div>
 
 
-        <div className="border rounded-xl p-6 hover:shadow-lg transition">
+        <div className="border rounded-xl p-6 hover:shadow-lg hover-lift">
 
           <img 
             src="/battleships.png"
