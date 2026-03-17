@@ -1,3 +1,61 @@
+<img width="1903" height="942" alt="image" src="https://github.com/user-attachments/assets/160d95a9-65f6-4df1-b2dc-3485933648a1" />
+
+# 🌐 Jayden Davis — Developer Portfolio
+
+A modern, responsive developer portfolio built with **Next.js** and **Tailwind CSS**, showcasing my projects, skills, and approach to software engineering. The focus is on clean UI, clear structure, and a premium, editorial-inspired presentation.
+
+---
+
+## 🚀 Tech Stack
+
+- **Framework:** Next.js (App Router)
+- **Language:** JavaScript
+- **Styling:** Tailwind CSS
+- **Version Control:** Git & GitHub
+- **Editor Assistance:** GitHub Copilot
+- **Deployment:** Vercel
+
+---
+
+## 🎨 Features
+
+- Clean, minimal, editorial-inspired design
+- Fully responsive layout for desktop and mobile
+- Smooth, subtle animations and micro-interactions
+- Dedicated pages for:
+  - Home
+  - Projects
+  - About
+  - Contact
+- Simple, maintainable file structure using the Next.js App Router
+
+---
+
+## 📂 Pages
+
+### 🏠 Home
+A focused hero section introducing who I am and what I do, with clear calls to action to view projects or get in touch.
+
+### 📁 Projects
+A curated selection of my key projects, each with a short description and tech stack, designed to highlight both technical ability and UX thinking.
+
+### 👤 About
+An overview of my journey into software engineering, my background, and how I approach building applications.
+
+### ✉️ Contact
+A simple, direct way to reach me, with links to my email and profiles.
+
+---
+
+## 🛠️ Setup & Development
+
+Clone the repository:
+
+```bash
+git clone https://github.com/jaydendavis746-debug/portfolio.git
+cd portfolio
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
