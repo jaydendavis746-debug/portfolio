@@ -19,11 +19,23 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
+      <body className="bg-white text-black">
+  <nav className="p-6 flex gap-6 border-b">
+    <a href="/">Home</a>
+    <a href="/projects">Projects</a>
+    <a href="/about">About</a>
+    <a href="/contact">Contact</a>
+  </nav>
+
+  <main className="max-w-4xl mx-auto p-6">
+    {children}
+  </main>
+
+  <footer className="p-6 text-center border-t mt-10">
+    © {new Date().getFullYear()} Jayden Davis
+  </footer>
+</body>
+
     </html>
   );
 }
