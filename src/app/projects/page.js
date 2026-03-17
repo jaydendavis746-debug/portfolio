@@ -176,6 +176,58 @@ export default function ProjectsPage() {
         </div>
 
 
+        <div className="border rounded-xl p-6 hover:shadow-lg transition">
+
+          <img 
+            src="/battleships.png"
+            alt="Battleship JavaScript game screenshot"
+            className="rounded-lg border mb-4"
+          />
+
+          <h2 className="text-2xl font-semibold mb-2">Battleship — Vanilla JavaScript Strategy Game</h2>
+
+          <p className="text-gray-600 mb-4">
+            A classic Battleship game built with HTML, CSS, and vanilla JavaScript, featuring a 
+            fully custom drag‑and‑drop ship placement system, ship rotation, turn‑based gameplay, 
+            and a simple CPU opponent. The project also includes an experimental multiplayer mode 
+            using WebSockets, showcasing early exploration into real‑time game logic.
+          </p>
+
+          <ul className="list-disc list-inside text-gray-600 mb-4 space-y-1">
+            <li>Custom drag‑and‑drop ship placement (no external libraries)</li>
+            <li>Ship rotation logic with collision detection</li>
+            <li>Turn‑based single‑player mode with hit/miss feedback</li>
+            <li>CPU opponent using randomised attack logic</li>
+            <li>Win/lose conditions with reset functionality</li>
+            <li>Prototype multiplayer mode built with WebSockets</li>
+          </ul>
+
+          <div className="flex flex-wrap gap-2 mb-4">
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">JavaScript</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">HTML</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">CSS</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">WebSockets</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">DOM Manipulation</span>
+          </div>
+
+          <div className="flex gap-4">
+            <a 
+              href="https://github.com/jaydendavis746-debug/Battleship-game-project" 
+              className="text-blue-600 hover:underline"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a 
+              href="https://jaydendavis746-debug.github.io/Battleship-game-project" 
+              className="text-blue-600 hover:underline"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
+        </div>
+
 
 
 
