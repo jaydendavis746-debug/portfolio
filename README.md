@@ -1,8 +1,9 @@
-<img width="1903" height="942" alt="image" src="https://github.com/user-attachments/assets/160d95a9-65f6-4df1-b2dc-3485933648a1" />
+<img width="1903" height="942" alt="image" src="https://github.com/user-attachments/assets/1ba26f3c-da4e-4686-be89-e978ee6aa027" />
 
 # 🌐 Jayden Davis — Developer Portfolio
 
 A modern, responsive developer portfolio built with **Next.js** and **Tailwind CSS**, showcasing my projects, skills, and approach to software engineering. The focus is on clean UI, clear structure, and a premium, editorial-inspired presentation.
+
 View the website [here](https://portfolio-xi-three-26.vercel.app/)
 ---
 
