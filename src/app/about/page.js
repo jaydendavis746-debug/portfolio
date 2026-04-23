@@ -7,7 +7,7 @@ export default function AboutPage() {
           About Me
         </h1>
         <p className="text-gray-600 text-lg">
-          Hi, I’m Jayden — a full‑stack developer who blends clean engineering with 
+          Hi, I’m Jayden, full‑stack developer who blends clean engineering with 
           editorial‑grade design. I build modern, thoughtful applications that balance 
           technical reliability with a premium user experience.
         </p>
@@ -17,7 +17,7 @@ export default function AboutPage() {
         <h2 className="text-2xl font-semibold">My Journey</h2>
         <p className="text-gray-600">
           I started my development journey through a software engineering bootcamp, where 
-          I built full‑stack applications across multiple stacks — MEN, MERN, Django, and 
+          I built full‑stack applications across multiple stacks MEN, MERN, Django, and 
           now Next.js. Each project pushed me to solve real problems, design clean 
           interfaces, and understand how to build systems that feel good to use.
         </p>
@@ -65,7 +65,7 @@ export default function AboutPage() {
       <section className="space-y-4  animate-fadeIn">
         <h2 className="text-2xl font-semibold">Beyond the Code</h2>
         <p className="text-gray-600">
-          Before software engineering, I worked as a children’s sports coach — rugby and 
+          Before software engineering, I worked as a children’s sports coach, rugby and 
           football. That experience taught me patience, communication, and how to break 
           down complex ideas into simple steps. Those skills translate directly into how 
           I build software today: clear structure, thoughtful planning, and a focus on 

@@ -37,12 +37,12 @@ export default function ProjectsPage() {
           </ul>
 
           <div className="flex flex-wrap gap-2 mb-4">
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">Django</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">Python</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">PostgreSQL</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">HTML</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">CSS</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">Git</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">Django</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">Python</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">PostgreSQL</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">HTML</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">CSS</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">Git</span>
           </div>
 
           <div className="flex gap-4">
@@ -86,12 +86,12 @@ export default function ProjectsPage() {
           </ul>
 
           <div className="flex flex-wrap gap-2 mb-4">
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">React</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">React Router</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">JavaScript</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">CSS Modules</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">Context API</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">Fetch API</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">React</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">React Router</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">JavaScript</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">CSS Modules</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">Context API</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">Fetch API</span>
           </div>
 
           <div className="flex gap-4">
@@ -148,15 +148,15 @@ export default function ProjectsPage() {
           </ul>
 
           <div className="flex flex-wrap gap-2 mb-4">
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">Node.js</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">Express</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">MongoDB</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">Mongoose</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">EJS</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">CSS</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">JavaScript</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">bcrypt</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">express-session</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">Node.js</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">Express</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">MongoDB</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">Mongoose</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">EJS</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">CSS</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">JavaScript</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">bcrypt</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">express-session</span>
           </div>
 
           <div className="flex gap-4">
@@ -205,11 +205,11 @@ export default function ProjectsPage() {
           </ul>
 
           <div className="flex flex-wrap gap-2 mb-4">
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">JavaScript</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">HTML</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">CSS</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">WebSockets</span>
-            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm">DOM Manipulation</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">JavaScript</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">HTML</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">CSS</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">WebSockets</span>
+            <span className="px-3 py-1 bg-gray-100 rounded-full text-sm text-black dark:text-black ">DOM Manipulation</span>
           </div>
 
           <div className="flex gap-4">

@@ -25,7 +25,7 @@ export default function Home() {
 
           <a 
             href="/contact" 
-            className="px-6 py-3 border border-gray-300 rounded-lg hover:bg-gray-100 hover:scale-[1.02] transition"
+            className="px-6 py-3 bg-black text-white rounded-lg hover:bg-gray-800 hover:scale-[1.02] transition"
           >
             Contact Me
           </a>

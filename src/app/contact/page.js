@@ -9,7 +9,7 @@ export default function ContactPage() {
         <p className="text-gray-600 text-lg">
           I’m always open to new opportunities, collaborations, or conversations about 
           software engineering. If you’d like to reach out, the best way to contact me 
-          is by email — I’d love to hear from you.
+          is by email. I’d love to hear from you.
         </p>
       </section>
 
