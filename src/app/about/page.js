@@ -3,7 +3,9 @@ export default function AboutPage() {
     <main className="py-20 space-y-16 max-w-3xl mx-auto">
       
       <section className="space-y-4  animate-fadeIn">
-        <h1 className="text-4xl font-bold">About Me</h1>
+        <h1 className="text-black dark:text-black text-4xl md:text-5xl font-bold leading-snug tracking-tight">
+          About Me
+        </h1>
         <p className="text-gray-600 text-lg">
           Hi, I’m Jayden — a full‑stack developer who blends clean engineering with 
           editorial‑grade design. I build modern, thoughtful applications that balance 

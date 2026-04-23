@@ -1,7 +1,9 @@
 export default function ProjectsPage() {
   return (
     <main className="py-20 space-y-16">
-      <h1 className="text-4xl font-bold">Projects</h1>
+      <h1 className="text-black dark:text-black text-4xl md:text-5xl font-bold leading-snug tracking-tight">
+        Projects
+      </h1>
 
       <p className="text-gray-600 max-w-2xl">
         A collection of full‑stack and frontend projects built using modern web

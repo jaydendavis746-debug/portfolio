@@ -3,7 +3,9 @@ export default function ContactPage() {
     <main className="py-20 max-w-2xl mx-auto space-y-10 animate-fadeUp">
       
       <section className="space-y-4">
-        <h1 className="text-4xl font-bold">Contact</h1>
+        <h1 className="text-black dark:text-black text-4xl md:text-5xl font-bold leading-snug tracking-tight">
+          Contact
+        </h1>
         <p className="text-gray-600 text-lg">
           I’m always open to new opportunities, collaborations, or conversations about 
           software engineering. If you’d like to reach out, the best way to contact me 

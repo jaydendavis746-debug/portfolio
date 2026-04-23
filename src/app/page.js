@@ -3,9 +3,10 @@ export default function Home() {
     <main className="py-40 space-y-32 text-center">
 
       <section className="space-y-6 max-w-3xl mx-auto animate-fadeIn animate-fadeUp">
-        <h1 className="text-4xl md:text-5xl font-bold leading-snug tracking-tight">
+       <h1 className="text-black dark:text-black text-4xl md:text-5xl font-bold leading-snug tracking-tight">
           Jayden Davis — Junior Software Engineer
         </h1>
+
 
         <p className="text-base md:text-lg text-gray-600 max-w-2xl mx-auto">
           Full‑stack developer with a strong foundation in modern web technologies, gained 
